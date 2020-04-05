@@ -22,8 +22,9 @@ background: linear-gradient(to right, #45a247, #283c86); /* W3C, IE 10+/ Edge, F
 img {
   border-radius: 8px;
 }
+
 figure {
-	padding: 1.5em;
+	padding: 2em;
 }
 
 
